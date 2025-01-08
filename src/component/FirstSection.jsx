@@ -14,7 +14,7 @@ const FirstSection = () => {
 A passionate web developer with expertise in a range of programming languages and technologies, including <span className='text-green-600'> C++, Java, HTML, CSS,TailwindcCs, JavaScript, NodeJs, and React</span>. My journey in web development is fueled by my curiosity and enthusiasm to build intuitive and dynamic web experiences.
 
 I thrive on turning complex problems into simple, beautiful, and user-friendly solutions. Whether it's crafting a responsive layout or developing a full-fledged web application, I am committed to delivering high-quality work and continuously expanding my skill set.</p>
-<div className='flex'> <h1 className='text-lg font-bold'>Linkedin&nbsp;:- </h1> <a className='text-green-600' href="www.linkedin.com/in/rohit-ritthe-332043245">&nbsp;www.linkedin.com/in/rohit-ritthe-332043245</a></div>
+<div className='flex'> <h1 className='text-lg font-bold'>Linkedin&nbsp;:- </h1> <a className='text-green-600' href="https://www.linkedin.com/in/rohit-ritthe-332043245/">&nbsp;www.linkedin.com/in/rohit-ritthe-332043245/</a></div>
 <div className='flex'> <h1 className='text-lg font-bold'>Github &nbsp; &nbsp;:-</h1> <a className='text-green-600' href="https://github.com/Ritthe28">  &nbsp; https://github.com/Ritthe28</a></div>
 <div></div>
             </div>
