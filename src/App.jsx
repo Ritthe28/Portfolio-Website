@@ -1,5 +1,5 @@
 import React from 'react'
-import Navbar from './component/navbar.jsx'
+import Navbar from './component/Navbar.jsx'
 import FirstSection from './component/FirstSection.jsx'
 import WorkedWith from './component/WorkedWith.jsx'
 import Projects from './component/Projects.jsx'
